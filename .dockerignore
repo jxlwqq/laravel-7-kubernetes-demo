@@ -1,0 +1,17 @@
+.idea/
+.git/
+.circleci/
+.github/
+bootstrap/cache/*
+node_modules/
+storage/app/*
+storage/framework/cache/*
+storage/framework/testing/*
+storage/logs/*
+vendor/
+.styleci.yml
+phpunit.xml
+README.md
+.editorconfig
+.env.example
+.gitattributes
